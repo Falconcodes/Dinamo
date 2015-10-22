@@ -22,7 +22,7 @@ PORTB.5 is a board RED LED sync with output thyristor pin
  PORTD.2=PORTD.3=1; //pull-up
  
  DDRB.5=1;  //конфигурации для
- PORTB.5=0; //штатного светодиода на плате   
+ PORTB.5=0; //штатного светодиода L на плате   
 
  DDRB.1=1;  //выход управления тиристором
  PORTB.1=0;
